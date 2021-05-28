@@ -1,0 +1,5 @@
+export const COUNT_CONTRACT_ADDRESS ='0x6936FE186a626F96db5131F027c1818e0ee79a66';
+export const ACCESS_KEY_ID = 'KASKBQJU3BYMT86MVXFITOT8';
+export const SECRET_ACCESS_KEY = '2sTvxoZrrqPJDwglgQhFVuVJ51Ql+iqFgDYVNJi7';
+export const CHAIN_ID = '8217'; //TestNet  Main 8217
+
